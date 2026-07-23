@@ -1,0 +1,5 @@
+interface:
+  display_name: "知识卡片与知识库"
+  short_description: "由子Agent自动生成主动回忆卡片并持久化管理个人知识库"
+  default_prompt: "Use $knowledge-card-library to delegate creation of study cards from this content and save them to my knowledge base."
+
